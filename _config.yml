@@ -103,6 +103,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  branch: 'main'
-  url: 'https://github.com/zhaokefei/zhaokefei.github.io.git'
+  type: git
+  branch: main
+  url: https://github.com/zhaokefei/zhaokefei.github.io.git
